@@ -1,0 +1,10 @@
+C:\Users\ACER\AppData\Local\Temporary Projects\201804019_Aplikasi Zakat\bin\Debug\201804019_Aplikasi Zakat.exe
+C:\Users\ACER\AppData\Local\Temporary Projects\201804019_Aplikasi Zakat\bin\Debug\201804019_Aplikasi Zakat.pdb
+C:\Users\ACER\AppData\Local\Temporary Projects\201804019_Aplikasi Zakat\bin\Debug\201804019_Aplikasi Zakat.xml
+C:\Users\ACER\AppData\Local\Temporary Projects\201804019_Aplikasi Zakat\obj\x86\Debug\_201804019_Aplikasi_Zakat.Resources.resources
+C:\Users\ACER\AppData\Local\Temporary Projects\201804019_Aplikasi Zakat\obj\x86\Debug\201804019_Aplikasi Zakat.vbproj.GenerateResource.Cache
+C:\Users\ACER\AppData\Local\Temporary Projects\201804019_Aplikasi Zakat\obj\x86\Debug\201804019_Aplikasi Zakat.exe
+C:\Users\ACER\AppData\Local\Temporary Projects\201804019_Aplikasi Zakat\obj\x86\Debug\201804019_Aplikasi Zakat.xml
+C:\Users\ACER\AppData\Local\Temporary Projects\201804019_Aplikasi Zakat\obj\x86\Debug\201804019_Aplikasi Zakat.pdb
+C:\Users\ACER\AppData\Local\Temporary Projects\201804019_Aplikasi Zakat\obj\x86\Debug\_201804019_Aplikasi_Zakat.FormLogin.resources
+C:\Users\ACER\AppData\Local\Temporary Projects\201804019_Aplikasi Zakat\obj\x86\Debug\_201804019_Aplikasi_Zakat.FormMenuUtama.resources

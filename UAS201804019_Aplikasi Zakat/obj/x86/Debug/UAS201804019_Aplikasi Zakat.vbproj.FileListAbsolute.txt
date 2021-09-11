@@ -1,0 +1,32 @@
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\bin\Debug\UAS201804019_Aplikasi Zakat.exe
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\bin\Debug\UAS201804019_Aplikasi Zakat.pdb
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\bin\Debug\UAS201804019_Aplikasi Zakat.xml
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\obj\x86\Debug\_201804019_Aplikasi_Zakat.FormLogin.resources
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\obj\x86\Debug\_201804019_Aplikasi_Zakat.FormMenuUtama.resources
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\obj\x86\Debug\_201804019_Aplikasi_Zakat.Resources.resources
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\obj\x86\Debug\UAS201804019_Aplikasi Zakat.vbproj.GenerateResource.Cache
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\obj\x86\Debug\UAS201804019_Aplikasi Zakat.exe
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\obj\x86\Debug\UAS201804019_Aplikasi Zakat.xml
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\obj\x86\Debug\UAS201804019_Aplikasi Zakat.pdb
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\obj\x86\Debug\_201804019_Aplikasi_Zakat.FormDataMustahik.resources
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\obj\x86\Debug\_201804019_Aplikasi_Zakat.FormPenyaluran.resources
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\obj\x86\Debug\UAS201804019_Aplikasi Zakat.vbprojResolveAssemblyReference.cache
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\obj\x86\Debug\_201804019_Aplikasi_Zakat.FormDetailMustahik.resources
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\obj\x86\Debug\_201804019_Aplikasi_Zakat.FormLaporanMustahik.resources
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\bin\Debug\CrystalReport1.rpt
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\bin\Debug\CrystalReport1.vb
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\obj\x86\Debug\_201804019_Aplikasi_Zakat.AboutAppsZakat.resources
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\obj\x86\Debug\_201804019_Aplikasi_Zakat.FormPenerimaanZakat.resources
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\obj\x86\Debug\_201804019_Aplikasi_Zakat.FormMuzzaki.resources
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\obj\x86\Debug\_201804019_Aplikasi_Zakat.FormLaporanPenerimaan.resources
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\bin\Debug\FormLaporanPenerimaan.resx
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\bin\Debug\FormLaporanPenerimaan.Designer.vb
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\bin\Debug\FormLaporanPenerimaan.vb
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\bin\Debug\CRPenerima.rpt
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\bin\Debug\CRPenerima.vb
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\obj\x86\Debug\_201804019_Aplikasi_Zakat.FormDetail.resources
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\obj\x86\Debug\_201804019_Aplikasi_Zakat.FormJenisZakat.resources
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\bin\Debug\CRDetail.rpt
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\bin\Debug\CRDetail.vb
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\obj\x86\Debug\_201804019_Aplikasi_Zakat.FormLapDetail.resources
+D:\Fadori folder\Kuliah\Semester 5\Pemrograman Visual\VB Program\UAS201804019_Aplikasi Zakat\UAS201804019_Aplikasi Zakat\obj\x86\Debug\_201804019_Aplikasi_Zakat.AboutBox1.resources
